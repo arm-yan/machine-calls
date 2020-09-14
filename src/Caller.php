@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Armyan\Response;
+namespace Armyan\MachineCaller;
 
 
 class Caller

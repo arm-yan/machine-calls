@@ -1,8 +1,8 @@
 <?php
 
-namespace Armyan\Response\Clients\OAuth;
+namespace Armyan\MachineCaller\Clients\OAuth;
 
-use Armyan\Response\ClientInterface;
+use Armyan\MachineCaller\ClientInterface;
 
 class OAuthClientCurl implements ClientInterface
 {

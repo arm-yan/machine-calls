@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Armyan\\Response\\": "src"
+      "Armyan\\MachineCaller\\": "src"
     }
   },
   "extra": {
